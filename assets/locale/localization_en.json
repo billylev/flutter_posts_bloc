@@ -1,0 +1,16 @@
+{
+  "title": "Bloc Demo",
+  "page_one": "Page one",
+  "page_two": "Page two",
+  "page_three": "Page three",
+  "login_title": "Login",
+  "login_button": "Login",
+  "login_username": "Username",
+  "login_username_hint": "enter username",
+  "login_password": "Password",
+  "login_password_hint": "enter password",
+  "login_out": "Log out",
+  "login_enter_username": "Please enter your username.",
+  "login_enter_password": "Please enter your password.",
+  "login_error": "Login error, check connection and try again."
+}
