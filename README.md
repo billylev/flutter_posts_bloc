@@ -8,7 +8,7 @@ A video of the app running can be found [here](https://youtu.be/Xk5b-5eMol0).
 
 This is a modified version of the TODO TODO
 
-If you interested in comparison between Redux and Bloc, have a look the the [flutter_posts_redux]() project, that implements this exact same app using the Redux pattern.
+If you interested in comparison between Redux and Bloc, have a look the the [flutter_posts_redux](https://github.com/billylev/flutter_posts_redux) project, that implements this exact same app using the Redux pattern.
 
 # Getting Started
 
